@@ -46,7 +46,7 @@ p {
 .hero h2 {
   font-family: var(--heading-font-family);
   font-weight: normal;
-  line-height: 2;
+  line-height: 1.5;
   font-size: 24px;
 }
 
@@ -83,6 +83,13 @@ p {
     text-align: center;
   }
   .project-description h2 {
-    font-size: 48px;
+    font-size: 46px;
+  }
+  h1 {
+    font-size: 46px;
+    line-height: 1.5;
+  }
+  .hero {
+    padding: 80px 20px;
   }
 }
