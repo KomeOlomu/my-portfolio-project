@@ -88,6 +88,9 @@ p {
   margin-top: 120px !important;
 }
 
+.about-section img {
+  margin-top: 0px !important;
+}
 .about-section {
   padding: 100px 20px;
 }
@@ -100,6 +103,10 @@ p {
     font-size: 44px;
     line-height: 50px;
 } */
+.about-section-content h1 {
+  font-size: 44px !important;
+  line-height: 50px;
+}
 .about-section h2 {
   font-size: 18px;
   font-family: var(--default-font-family);
